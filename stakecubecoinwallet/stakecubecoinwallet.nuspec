@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>stakecubecoinwallet</id>
+    <version>3.0.2</version>
+	<packageSourceUrl>https://github.com/RalfEs73/stakecubecoinwallet_choco</packageSourceUrl>
+    <owners>Ralf Essbaumer</owners>
+    <title>StakeCube Coin Wallet (Install)</title>
+    <authors>StakeCube</authors>
+    <projectUrl>https://stakecube.net/</projectUrl>
+    <iconUrl>https://stakecube.net/assets/coins/scc.png</iconUrl>
+
+    <bugTrackerUrl>https://github.com/stakecube/StakeCubeCoin/issues</bugTrackerUrl>
+    <tags>stakecubecoinwallet crypto wallet</tags>
+    <summary>StakeCubeCoin Crypto Wallet</summary>
+    <description>StakeCubeCoin is a Crypto Coin like Bitoin. This ist the Wallet for that coin.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

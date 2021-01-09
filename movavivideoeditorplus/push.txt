@@ -1,0 +1,4 @@
+https://chocolatey.org/account/
+choco apikey -s "https://push.chocolatey.org/" -k="123-123123-123"
+choco pack .\MovaviVideoEditorPlus.nuspec
+choco push .\movavivideoeditorplus.21.1.0.nupkg --source https://push.chocolatey.org/

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>filminfo</id>
+    <version>0.6.1.3</version>
+    <packageSourceUrl>https://github.com/RalfEs73/filminfoorganizer_choco</packageSourceUrl>
+    <owners>Ralf Essbaumer</owners>
+    <title>Film Info! Organizer (Install)</title>
+    <authors>Ralf Essbaumer</authors>
+    <projectUrl>https://github.com/RalfEs73/chocolatey-packages/filminfo</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/RalfEs73/chocolatey-packages/filminfo/master/icon/Icon.jpg</iconUrl>
+    <projectSourceUrl>https://github.com/RalfEs73/filminfoorganizer</projectSourceUrl>
+    <docsUrl>https://github.com/RalfEs73/filminfoorganizer/wiki</docsUrl>
+    <tags>film organizer tool</tags>
+    <summary>Film Info! Organizer or Fi! O abbreviated, is a small program with which you can easily organize your movie database.</summary>
+    <description>This application is only available on German. With this little tool you have your movie database in the grip.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

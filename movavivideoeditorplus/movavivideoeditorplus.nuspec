@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>movavivideoeditorplus</id>
+    <version>21.1.0</version>
+    <packageSourceUrl>https://github.com/RalfEs73/movavivideoeditorplus_choco</packageSourceUrl>
+    <owners>Ralf Essbaumer</owners>
+    <title>Movavi Video Editor Plus (Install)</title>
+    <authors>Movavi Software Ltd.</authors>
+    <projectUrl>https://www.movavi.com/video-editor-plus/</projectUrl>
+    <iconUrl>https://img.movavi.com/online-help/video-editor-plus-mac/21/images/drex_index_custom.png</iconUrl>
+    <licenseUrl>https://www.movavi.com/tos.html</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>https://www.movavi.com/support/how-to/</docsUrl>
+    <mailingListUrl>https://www.movavi.com/support/upgrade.html</mailingListUrl>
+    <tags>movavivideoeditorplus video editor</tags>
+    <summary>Movavi Video Editor Plus makes video editing surprisingly easy.</summary>
+    <description>The drag-and-drop editor and video assets help you complete your videos faster. No video experience needed.</description>
+    <releaseNotes>https://www.movavi.com/video-editor-plus/whats-new.html</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

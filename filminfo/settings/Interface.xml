@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Interface>
+    <Fanart>
+        <Fanartsize_w>600</Fanartsize_w>
+        <Fanartsize_h>500</Fanartsize_h>
+        <Fanartsize_previewsize>0</Fanartsize_previewsize>
+        <Fanartsize_maximized>false</Fanartsize_maximized>
+    </Fanart>
+    <Panel>
+        <Panel_Info visible="True" width="658" />
+        <Panel_Tree visible="False" width="164" />
+    </Panel>
+    <Toolbar>
+        <DatenbankSuche modus="2" imdb="False">
+            <FanartSuche modus="1" />
+        </DatenbankSuche>
+        <Fenster>
+            <Maximiert>false</Maximiert>
+            <Größe height="667" width="1112" />
+            <Position X="880" Y="607" />
+        </Fenster>
+        <Symbolleisten>
+            <Menu>true</Menu>
+            <Status>true</Status>
+            <Toolbar>true</Toolbar>
+            <LinksBar>false</LinksBar>
+        </Symbolleisten>
+        <RowFilter_Mode>Titel</RowFilter_Mode>
+        <RowFilter_Text>Suchen</RowFilter_Text>
+        <Toolbar_Rand_hervorheben>false</Toolbar_Rand_hervorheben>
+        <Dynamische_Toolbar>false</Dynamische_Toolbar>
+        <Organize_button_text>true</Organize_button_text>
+        <info_panel_color>1</info_panel_color>
+        <alwaysExplore>false</alwaysExplore>
+    </Toolbar>
+</Interface>
