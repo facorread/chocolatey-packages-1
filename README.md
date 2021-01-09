@@ -24,11 +24,9 @@
 
 # Chocolatey Softwarepakete
 
-
-## Aufruf
+## Build & Push
 Mit PowerShell den folgenden Befehl starten.
 
-## Build & Push
 ```sh
 choco pack .\<packetname>.nuspec
 ```
@@ -36,8 +34,6 @@ choco pack .\<packetname>.nuspec
 ```sh
 choco push .\<packetname>.nupkg --source https://push.chocolatey.org/
 ```
-
-
 
 ## Die folgenden Anwendungen wurden paketiert:
 * Movavi Video Editor Plus
