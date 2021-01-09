@@ -3,12 +3,12 @@
   <metadata>
     <id>movavivideoeditorplus</id>
     <version>21.1.0</version>
-    <packageSourceUrl>https://github.com/RalfEs73/movavivideoeditorplus_choco</packageSourceUrl>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/movavivideoeditorplus</packageSourceUrl>
     <owners>Ralf Essbaumer</owners>
     <title>Movavi Video Editor Plus (Install)</title>
     <authors>Movavi Software Ltd.</authors>
     <projectUrl>https://www.movavi.com/video-editor-plus/</projectUrl>
-    <iconUrl>https://img.movavi.com/online-help/video-editor-plus-mac/21/images/drex_index_custom.png</iconUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/movavivideoeditorplus/icon/Icon.png</iconUrl>
     <licenseUrl>https://www.movavi.com/tos.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://www.movavi.com/support/how-to/</docsUrl>
