@@ -36,9 +36,9 @@ choco push .\<packetname>.nupkg --source https://push.chocolatey.org/
 ```
 
 ## Die folgenden Anwendungen wurden paketiert:
-* Movavi Video Editor Plus
-* Film Info! Organiser
-* StakeCube Coin Wallet
+* [Movavi Video Editor Plus](https://chocolatey.org/packages/movavivideoeditorplus/)
+* [Film Info! Organiser](https://chocolatey.org/packages/stakecubecoinwallet/)
+* [StakeCube Coin Wallet](https://chocolatey.org/packages/filminfo/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
