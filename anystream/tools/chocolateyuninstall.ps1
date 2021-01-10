@@ -1,32 +1,31 @@
 ﻿$ErrorActionPreference = 'Stop';
-$packageArgs = @{
-  packageName   = $env:ChocolateyPackageName
-  softwareName  = 'anystream*'
-  fileType      = 'EXE'
-  silentArgs   = '/S'
+ 
+$packageName = 'anystream'
+$registryUninstallerKeyName_32 = 'AnyDVD'
+$registryUninstallerKeyName_64 = 'AnyDVD64'
+$shouldUninstall = $true
+ 
+$local_key     = "HKCU:\Software\Microsoft\Windows\CurrentVersion\Uninstall\$registryUninstallerKeyName_64"
+$local_key6432   = "HKCU:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\$registryUninstallerKeyName_32"
+$machine_key   = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$registryUninstallerKeyName_64"
+$machine_key6432 = "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\$registryUninstallerKeyName_32"
+ 
+$file = @($local_key, $local_key6432, $machine_key, $machine_key6432) `
+    | ?{ Test-Path $_ } `
+    | Get-ItemProperty `
+    | Select-Object -ExpandProperty UninstallString
+ 
+if ($file -eq $null -or $file -eq '') {
+    Write-Host "$packageName has already been uninstalled by other means."
+    $shouldUninstall = $false
 }
 
-$uninstalled = $false
-[array]$key = Get-UninstallRegistryKey -SoftwareName $packageArgs['softwareName']
+$installerType = 'EXE'
+$silentArgs = "/S"
+$validExitCodes = @(0)
 
-if ($key.Count -eq 1) {
-  $key | % { 
-    $packageArgs['file'] = "$($_.UninstallString)"
-    
-    if ($packageArgs['fileType'] -eq 'MSI') {
-      $packageArgs['silentArgs'] = "$($_.PSChildName) $($packageArgs['silentArgs'])"
-      $packageArgs['file'] = ''
-    } else {
-
-    }
-
-    Uninstall-ChocolateyPackage @packageArgs
-  }
-} elseif ($key.Count -eq 0) {
-  Write-Warning "$packageName has already been uninstalled by other means."
-} elseif ($key.Count -gt 1) {
-  Write-Warning "$($key.Count) matches found!"
-  Write-Warning "To prevent accidental data loss, no programs will be uninstalled."
-  Write-Warning "Please alert package maintainer the following keys were matched:"
-  $key | % {Write-Warning "- $($_.DisplayName)"}
+$file = $file -replace "/D",($silentArgs+" /D")
+ 
+if ($shouldUninstall) {
+ Uninstall-ChocolateyPackage -PackageName $packageName -FileType $installerType -validExitCodes $validExitCodes -File $file
 }
