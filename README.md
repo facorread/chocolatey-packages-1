@@ -36,11 +36,11 @@ choco push .\<packetname>.nupkg --source https://push.chocolatey.org/
 ```
 
 ## Die folgenden Anwendungen wurden paketiert:
-* [Movavi Video Editor Plus](https://chocolatey.org/packages/movavivideoeditorplus/)
+* [AnyStream](https://chocolatey.org/packages/anystream/)
 * [Film Info! Organiser](https://chocolatey.org/packages/stakecubecoinwallet/)
+* [Movavi Video Editor Plus](https://chocolatey.org/packages/movavivideoeditorplus/)
 * [StakeCube Coin Wallet](https://chocolatey.org/packages/filminfo/)
 * [Ravensburger tiptoi Manager](https://chocolatey.org/packages/tiptoimanager/)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
