@@ -39,6 +39,7 @@ choco push .\<packetname>.nupkg --source https://push.chocolatey.org/
 * [Movavi Video Editor Plus](https://chocolatey.org/packages/movavivideoeditorplus/)
 * [Film Info! Organiser](https://chocolatey.org/packages/stakecubecoinwallet/)
 * [StakeCube Coin Wallet](https://chocolatey.org/packages/filminfo/)
+* [Ravensburger tiptoi Manager](https://chocolatey.org/packages/tiptoimanager/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

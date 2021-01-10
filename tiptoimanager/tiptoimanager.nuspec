@@ -6,14 +6,14 @@
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/tiptoimanager</packageSourceUrl>
     <owners>Ralf Essbaumer</owners>
 
-    <title>tiptoimanager (Install)</title>
+    <title>Ravensburger tiptoi Manager (Install)</title>
     <authors>Ravensburger AG</authors>
     <projectUrl>https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/index.html</projectUrl>
     <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/tiptoimanager/icon/Icon.png</iconUrl>
     <licenseUrl>https://assets.ravensburger.com/legal/privacy/tiptoi_desktop/privacy_german.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/tiptoi-manager/index.html</projectSourceUrl>
-    <tags>tiptoimanager SPACE_SEPARATED</tags>
+    <tags>tiptoimanager play children learning pen</tags>
     <summary>Management software for tiptoi pens</summary>
     <description>With the free tiptoi Manager, you can download for each product the associated audio files. Start the download, select from the products and in a few steps the tiptoi pen is ready for the new game, the new book, the new puzzle or the globe.</description>
   </metadata>
