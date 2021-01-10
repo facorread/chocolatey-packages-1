@@ -3,12 +3,12 @@
   <metadata>
     <id>anystream</id>
     <version>1.0.7.0</version>
-    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/anystream</packageSourceUrl>
     <owners>Ralf Essbaumer</owners>
     <title>AnyStream (Install)</title>
     <authors>The RedFox Project</authors>
     <projectUrl>https://www.redfox.bz/de/anystream.html</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/anystream.png</iconUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/anystream/icon/Icon.png</iconUrl>
 
     <tags>anystream stream download movie</tags>
     <summary>AnyStream is an easy-to-use application that allows you to download entire series, movies, and documentaries from Netflix and Amazon Prime for offline-viewing.</summary>
