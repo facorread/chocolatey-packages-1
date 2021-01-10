@@ -15,7 +15,6 @@ $packageArgs = @{
   checksumType  = 'sha256'
   checksum64    = ''
   checksumType64= 'sha256'
-
   silentArgs   = '/S'
 }
 
