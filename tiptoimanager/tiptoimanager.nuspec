@@ -3,26 +3,21 @@
   <metadata>
     <id>tiptoimanager</id>
     <version>4.2.1</version>
-    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/tiptoimanager</packageSourceUrl>
     <owners>Ralf Essbaumer</owners>
 
     <title>tiptoimanager (Install)</title>
-    <authors>Ralf Essbaumer</authors>
-    <projectUrl>https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/tiptoi-manager/index.html</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/tiptoimanager.png</iconUrl>-->
+    <authors>Ravensburger AG</authors>
+    <projectUrl>https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/index.html</projectUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/tiptoimanager/icon/Icon.png</iconUrl>
     <licenseUrl>https://assets.ravensburger.com/legal/privacy/tiptoi_desktop/privacy_german.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
-    <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
-    <!--<mailingListUrl></mailingListUrl>-->
-    <!--<bugTrackerUrl></bugTrackerUrl>-->
+    <projectSourceUrl>https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/tiptoi-manager/index.html</projectSourceUrl>
     <tags>tiptoimanager SPACE_SEPARATED</tags>
     <summary>Management software for tiptoi pens</summary>
     <description>With the free tiptoi Manager, you can download for each product the associated audio files. Start the download, select from the products and in a few steps the tiptoi pen is ready for the new game, the new book, the new puzzle or the globe.</description>
   </metadata>
   <files>
-    <!-- this section controls what actually gets packaged into the Chocolatey package -->
     <file src="tools\**" target="tools" />
-    <!--Building from Linux? You may need this instead: <file src="tools/**" target="tools" />-->
   </files>
 </package>
