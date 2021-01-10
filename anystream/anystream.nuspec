@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>anystream</id>
+    <version>1.0.7.0</version>
+    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>
+    <owners>Ralf Essbaumer</owners>
+    <title>AnyStream (Install)</title>
+    <authors>The RedFox Project</authors>
+    <projectUrl>https://www.redfox.bz/de/anystream.html</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/anystream.png</iconUrl>
+
+    <tags>anystream stream download movie</tags>
+    <summary>AnyStream is an easy-to-use application that allows you to download entire series, movies, and documentaries from Netflix and Amazon Prime for offline-viewing.</summary>
+    <description>AnyStream is an easy-to-use application that allows you to download entire series, movies, and documentaries from Netflix and Amazon Prime for offline-viewing.
+Did you already miss a movie because of expired content? AnyStream will save your favorite shows and movies before the content expires and is removed from the streaming service.
+Once downloaded as an MP4 file, content is unprotected and can be viewed with any video player. Additionally it can also be converted with video editing software of your choice to different file formats like MKV.
+
+AnyStream comes with an easy-to-navigate interface, that helps you quickly find the content you're looking for.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
