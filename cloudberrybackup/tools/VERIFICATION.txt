@@ -1,0 +1,6 @@
+﻿VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+1. The original software is available on the following page https://www.msp360.com/backup.aspx/
+2. Download and start CloudBerryBackup_v*.exe
