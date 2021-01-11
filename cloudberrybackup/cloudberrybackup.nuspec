@@ -10,7 +10,7 @@
     <projectUrl>https://www.msp360.com/backup/windows/desktop.aspx</projectUrl>
     <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/cloudberrybackup/icon/Icon.png</iconUrl>
     <docsUrl>https://www.msp360.com/download/Backup_Installation_and_Configuration_Guide.pdf</docsUrl>
-    <tags>cloudberrybackup backup desktop</tags>
+    <tags>cloudberrybackup cloudberry backup desktop msp360</tags>
     <summary>CloudBerry Backup provides SMBs with an affordable and secure backup solution that works on all major platforms.</summary>
     <description>CloudBerry Backup supports both local backups and cloud storage services like AWS, Microsoft Azure, Backblaze B2, Wasabi, Google Cloud Storage. It is the ideal solution for small businesses to protect both endpoints and servers from data disasters.</description>
   </metadata>
