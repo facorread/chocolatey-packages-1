@@ -37,6 +37,7 @@ choco push .\<packetname>.nupkg --source https://push.chocolatey.org/
 
 ## Die folgenden Anwendungen wurden paketiert:
 * [AnyStream](https://chocolatey.org/packages/anystream/)
+* [Cloudberry Backup for Desktop](https://chocolatey.org/packages/cloudberrybackup/)
 * [Film Info! Organiser](https://chocolatey.org/packages/stakecubecoinwallet/)
 * [Movavi Video Editor Plus](https://chocolatey.org/packages/movavivideoeditorplus/)
 * [StakeCube Coin Wallet](https://chocolatey.org/packages/filminfo/)
