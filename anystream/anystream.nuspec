@@ -4,7 +4,7 @@
     <id>anystream</id>
     <version>1.0.7.0</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/anystream</packageSourceUrl>
-    <owners>Ralf Essbaumer</owners>
+    <owners>RalfEs</owners>
     <title>AnyStream (Install)</title>
     <authors>The RedFox Project</authors>
     <projectUrl>https://www.redfox.bz/de/anystream.html</projectUrl>

@@ -4,7 +4,7 @@
     <id>movavivideoeditorplus</id>
     <version>21.1.0</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/movavivideoeditorplus</packageSourceUrl>
-    <owners>Ralf Essbaumer</owners>
+    <owners>RalfEs</owners>
     <title>Movavi Video Editor Plus (Install)</title>
     <authors>Movavi Software Ltd.</authors>
     <projectUrl>https://www.movavi.com/video-editor-plus/</projectUrl>

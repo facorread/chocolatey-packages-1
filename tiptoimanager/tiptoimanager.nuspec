@@ -4,8 +4,7 @@
     <id>tiptoimanager</id>
     <version>4.2.1</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/tiptoimanager</packageSourceUrl>
-    <owners>Ralf Essbaumer</owners>
-
+    <owners>RalfEs</owners>
     <title>Ravensburger tiptoi Manager (Install)</title>
     <authors>Ravensburger AG</authors>
     <projectUrl>https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/index.html</projectUrl>

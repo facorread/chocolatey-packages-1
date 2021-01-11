@@ -4,7 +4,7 @@
     <id>stakecubecoinwallet</id>
     <version>3.0.2</version>
 	<packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/stakecubecoinwallet</packageSourceUrl>
-    <owners>Ralf Essbaumer</owners>
+    <owners>RalfEs</owners>
     <title>StakeCube Coin Wallet (Install)</title>
     <authors>StakeCube</authors>
     <projectUrl>https://stakecube.net/</projectUrl>

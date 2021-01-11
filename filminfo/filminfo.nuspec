@@ -6,7 +6,7 @@
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/filminfo</packageSourceUrl>
     <owners>Ralf Essbaumer</owners>
     <title>Film Info! Organizer (Install)</title>
-    <authors>Ralf Essbaumer</authors>
+    <authors>RalfEs</authors>
     <projectUrl>https://github.com/RalfEs73/filminfoorganizer</projectUrl>
     <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/filminfo/icon/Icon.jpg</iconUrl>
     <docsUrl>https://github.com/RalfEs73/filminfoorganizer/wiki</docsUrl>
