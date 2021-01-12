@@ -19,4 +19,4 @@ $packageArgs = @{
   silentArgs   = '/S'
 }
 
-Install-ChocolateyPackage @packageArgs # https://chocolatey.org/docs/helpers-install-chocolatey-package
+Install-ChocolateyPackage @packageArgs
