@@ -3,12 +3,12 @@
   <metadata>
     <id>movavislideshowmaker</id>
     <version>7.0.1</version>
-    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>-->
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/movavislideshowmaker/</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>Movavi Slideshow Video Maker (Install)</title>
     <authors>Movavi Software Ltd.</authors>
     <projectUrl>https://www.movavi.com/slideshow-maker/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/movavislideshowmaker.png</iconUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/movavislideshowmaker/icon/Icon.png</iconUrl>
     <docsUrl>https://www.movavi.com/support/how-to/</docsUrl>
     <tags>movavislideshowmaker movavi slideshow creater</tags>
     <summary>Create Slideshows in 3 Easy Steps</summary>
