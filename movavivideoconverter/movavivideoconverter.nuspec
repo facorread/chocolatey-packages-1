@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>movavivideoconverter</id>
+    <version>21.1.0</version>
+    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>
+    <owners>RalfEs</owners>
+    <title>Movavi Video Converter (Install)</title>
+    <authors>Movavi Software Ltd.</authors>
+    <projectUrl>https://www.movavi.de/videoconverter/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/movavivideoconverter.png</iconUrl>
+    <docsUrl>https://www.movavi.de/support/how-to/</docsUrl>
+    <tags>movavivideoconverter video converter</tags>
+    <summary>__REPLACE__</summary>
+    <description>__REPLACE__MarkDown_Okay </description>
+    <releaseNotes>https://www.movavi.de/videoconverter/whats-new.html</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
