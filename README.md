@@ -40,6 +40,7 @@ choco push .\<packetname>.nupkg --source https://push.chocolatey.org/
 * [Cloudberry Backup for Desktop](https://chocolatey.org/packages/cloudberrybackup/)
 * [DroidCam Client](https://chocolatey.org/packages/droidcamclient/)
 * [Film Info! Organiser](https://chocolatey.org/packages/stakecubecoinwallet/)
+* [Movavi Video Converter](https://chocolatey.org/packages/movavivideoconverter/)
 * [Movavi Video Editor Plus](https://chocolatey.org/packages/movavivideoeditorplus/)
 * [StakeCube Coin Wallet](https://chocolatey.org/packages/filminfo/)
 * [Ravensburger tiptoi Manager](https://chocolatey.org/packages/tiptoimanager/)
