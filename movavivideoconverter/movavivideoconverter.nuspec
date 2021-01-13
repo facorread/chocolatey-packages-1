@@ -6,7 +6,7 @@
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/movavivideoconverter/</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>Movavi Video Converter (Install)</title>
-    <authors>Movavi Software Ltd.</authors> 
+    <authors>Movavi Software Ltd.</authors>
     <projectUrl>https://www.movavi.de/videoconverter/</projectUrl>
     <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/movavivideoconverter/icon/Icon.png</iconUrl>
     <docsUrl>https://www.movavi.de/support/how-to/</docsUrl>
