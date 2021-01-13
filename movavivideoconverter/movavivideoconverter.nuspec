@@ -10,7 +10,7 @@
     <projectUrl>https://www.movavi.de/videoconverter/</projectUrl>
     <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/movavivideoconverter/icon/Icon.png</iconUrl>
     <docsUrl>https://www.movavi.de/support/how-to/</docsUrl>
-    <tags>movavivideoconverter video converter</tags>
+    <tags>movavivideoconverter movavi video converter</tags>
     <summary>Fast video converter</summary>
     <description>Convert between over 180 media formats, including AVI, MKV, MOV, MP4; AAC, MP3, OGG; GIF, JPG, PNG and more.</description>
     <releaseNotes>https://www.movavi.de/videoconverter/whats-new.html</releaseNotes>
