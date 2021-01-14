@@ -21,6 +21,7 @@ choco push .\<packetname>.nupkg --source https://push.chocolatey.org/
 * [Cloudberry Backup for Desktop](https://chocolatey.org/packages/cloudberrybackup/)
 * [DroidCam Client](https://chocolatey.org/packages/droidcamclient/)
 * [Film Info! Organiser](https://chocolatey.org/packages/stakecubecoinwallet/)
+* [Movavi Screen Recorder](https://chocolatey.org/packages/movaviscreenrecorder/)
 * [Movavi Slideshow Video Maker](https://chocolatey.org/packages/movavislideshowmaker/)
 * [Movavi Video Converter](https://chocolatey.org/packages/movavivideoconverter/)
 * [Movavi Video Editor Plus](https://chocolatey.org/packages/movavivideoeditorplus/)
