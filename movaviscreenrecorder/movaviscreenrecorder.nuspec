@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>movaviscreenrecorder</id>
+    <version>21.1.0</version>
+    <title>Movavi Screen Recorder (Install)</title>
+    <authors>Movavi Software Ltd.</authors>
+    <projectUrl>https://www.movavi.com/screen-recorder/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/movaviscreenrecorder.png</iconUrl>
+    <docsUrl>https://www.movavi.com/support/how-to/</docsUrl>
+    <tags>movaviscreenrecorder screen recorder capture</tags>
+    <summary>Screen Recorder - Capture screens in one click</summary>
+    <description>- Capture webinars and online calls
+		- Record video instructions and tutorials
+		- Grab streaming videos and online events
+	</description>
+  </metadata>
+  <files>
+    <!-- this section controls what actually gets packaged into the Chocolatey package -->
+    <file src="tools\**" target="tools" />
+    <!--Building from Linux? You may need this instead: <file src="tools/**" target="tools" />-->
+  </files>
+</package>
