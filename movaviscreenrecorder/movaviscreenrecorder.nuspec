@@ -6,7 +6,7 @@
     <title>Movavi Screen Recorder (Install)</title>
     <authors>Movavi Software Ltd.</authors>
     <projectUrl>https://www.movavi.com/screen-recorder/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/movaviscreenrecorder.png</iconUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/movaviscreenrecorder/icon/Icon.png</iconUrl>
     <docsUrl>https://www.movavi.com/support/how-to/</docsUrl>
     <tags>movaviscreenrecorder screen recorder capture</tags>
     <summary>Screen Recorder - Capture screens in one click</summary>
@@ -16,8 +16,6 @@
 	</description>
   </metadata>
   <files>
-    <!-- this section controls what actually gets packaged into the Chocolatey package -->
     <file src="tools\**" target="tools" />
-    <!--Building from Linux? You may need this instead: <file src="tools/**" target="tools" />-->
   </files>
 </package>
