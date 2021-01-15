@@ -9,9 +9,9 @@
     <projectUrl>http://www.planetmule.com/</projectUrl>
     <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/planetmule/icon/Icon.jpg</iconUrl>
     <docsUrl>http://www.planetmule.com/how-to-play/</docsUrl>
-    <tags>planetmule SPACE_SEPARATED</tags>
-    <summary>Text</summary>
-    <description>Text</description>
+    <tags>planetmule mule game c64</tags>
+    <summary>Planet M.U.L.E. is an online multiplayer strategy game by Swedish studio Turborilla. It is a remake of the 1983 classic M.U.L.E.</summary>
+    <description>The gameplay of Planet M.U.L.E. closely follows that of the original M.U.L.E.. Improvements over the original include improved, animated graphics and network play over the Internet. However, in the original game, the different characters had different advantages during gameplay (for example, Packers were better at producing food), whereas in Planet M.U.L.E. there are no advantages to choosing one character type versus another.</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
