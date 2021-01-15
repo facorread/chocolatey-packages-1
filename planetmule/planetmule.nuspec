@@ -3,11 +3,11 @@
   <metadata>
     <id>planetmule</id>
     <version>1.3.6</version>
-    <owners>RalfEs</owners>-->
+    <owners>RalfEs</owners>
     <title>Planet M.U.L.E (Install)</title>
     <authors>Turborilla</authors>
     <projectUrl>http://www.planetmule.com/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/planetmule.png</iconUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/planetmule/icon/Icon.jpg</iconUrl>
     <docsUrl>http://www.planetmule.com/how-to-play/</docsUrl>
     <tags>planetmule SPACE_SEPARATED</tags>
     <summary>Text</summary>
