@@ -25,7 +25,6 @@ choco push .\<packetname>.nupkg --source https://push.chocolatey.org/
 * [Movavi Slideshow Video Maker](https://chocolatey.org/packages/movavislideshowmaker/)
 * [Movavi Video Converter](https://chocolatey.org/packages/movavivideoconverter/)
 * [Movavi Video Editor Plus](https://chocolatey.org/packages/movavivideoeditorplus/)
-* [OpenRCT2](https://chocolatey.org/packages/openrct2) - inoffizielles Packet
 * [Planet M.U.L.E.](https://chocolatey.org/packages/planetmule/)
 * [StakeCube Coin Wallet](https://chocolatey.org/packages/filminfo/)
 * [Ravensburger tiptoi Manager](https://chocolatey.org/packages/tiptoimanager/)
