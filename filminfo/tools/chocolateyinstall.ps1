@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://github.com/RalfEs73/filminfoorganizer/raw/master/FilmInfo.exe'
+$url        = 'https://github.com/RalfEs73/filminfoorganizer/raw/master/Film%20Info!%20Organizer%20Setup%200.6.1.2.exe'
 $url64      = ''
 
 $packageArgs = @{
