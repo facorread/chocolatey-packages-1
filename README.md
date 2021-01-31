@@ -16,6 +16,14 @@ choco pack .\<packetname>.nuspec
 choco push .\<packetname>.nupkg --source https://push.chocolatey.org/
 ```
 
+## Installation
+Mit PowerShell den folgenden Befehl starten.
+
+```sh
+choco install <packetname>
+```
+
+
 ## Die folgenden Anwendungen wurden paketiert:
 * [AnyStream](https://chocolatey.org/packages/anystream/)
 * [Cloudberry Backup for Desktop](https://chocolatey.org/packages/cloudberrybackup/)
