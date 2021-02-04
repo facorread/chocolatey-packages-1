@@ -8,11 +8,11 @@
     <title>Thumbico (Install)</title>
     <authors>aurelitec</authors>
     <projectUrl>https://www.aurelitec.com/thumbico/windows/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/thumbico.png</iconUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/thumbico/icon/Icon.png</iconUrl>
     <docsUrl>https://www.aurelitec.com/thumbico/windows/help/</docsUrl>
-    <tags>thumbico SPACE_SEPARATED</tags>
-    <summary>__REPLACE__</summary>
-    <description>__REPLACE__MarkDown_Okay </description>
+    <tags>thumbico icon extract</tags>
+    <summary>Get icons for any file or program.</summary>
+    <description>Get icons and thumbnails (reduced-size versions) for any program, picture, photo, or video.</description>
     <releaseNotes>https://www.aurelitec.com/thumbico/windows/history/</releaseNotes>
   </metadata>
   <files>
