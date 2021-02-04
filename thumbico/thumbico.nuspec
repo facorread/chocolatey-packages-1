@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>thumbico</id>
+    <version>1.5.0.25</version>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/thumbico</packageSourceUrl>
+    <owners>RalfEs</owners>
+    <title>Thumbico (Install)</title>
+    <authors>aurelitec</authors>
+    <projectUrl>https://www.aurelitec.com/thumbico/windows/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/thumbico.png</iconUrl>
+    <docsUrl>https://www.aurelitec.com/thumbico/windows/help/</docsUrl>
+    <tags>thumbico SPACE_SEPARATED</tags>
+    <summary>__REPLACE__</summary>
+    <description>__REPLACE__MarkDown_Okay </description>
+    <releaseNotes>https://www.aurelitec.com/thumbico/windows/history/</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
