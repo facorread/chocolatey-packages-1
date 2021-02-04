@@ -8,7 +8,7 @@
     <title>Amazon Games (Install)</title>
     <authors>Amazon.com</authors>
     <projectUrl>https://gaming.amazon.com/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/amazongames.png</iconUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/amazongames/icon/Icon.png</iconUrl>
     <docsUrl>https://www.amazongames.com/de-de/support/prime-gaming</docsUrl>
     <tags>amazongames amazon games game client</tags>
     <summary>Amazon Games Client a digital distribution platform</summary>
