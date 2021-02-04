@@ -25,6 +25,7 @@ choco install <packetname>
 
 
 ## Die folgenden Anwendungen wurden paketiert:
+* [Amazon Games](https://chocolatey.org/packages/amazongames/)
 * [AnyStream](https://chocolatey.org/packages/anystream/)
 * [Cloudberry Backup for Desktop](https://chocolatey.org/packages/cloudberrybackup/)
 * [DroidCam Client](https://chocolatey.org/packages/droidcamclient/)
