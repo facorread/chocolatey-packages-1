@@ -6,11 +6,11 @@
     <owners>RalfEs</owners>
     <title>Power Automate Desktop (Install)</title>
     <authors>Microsoft</authors>
-    <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
-    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/powerautomatedesktop.png</iconUrl>-->
+    <projectUrl>https://flow.microsoft.com/de-de/desktop/</projectUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/amazongames/icon/Icon.png</iconUrl>
     <tags>powerautomatedesktop microsoft m365</tags>
-    <summary>__REPLACE__</summary>
-    <description>__REPLACE__MarkDown_Okay </description>
+    <summary>Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text</summary>
+    <description>Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text. Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text. Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text Dummy Text</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
