@@ -35,6 +35,7 @@ choco install <packetname>
 * [Movavi Video Converter](https://chocolatey.org/packages/movavivideoconverter/)
 * [Movavi Video Editor Plus](https://chocolatey.org/packages/movavivideoeditorplus/)
 * [Planet M.U.L.E.](https://chocolatey.org/packages/planetmule/)
+* [Power Automate Desktop](https://chocolatey.org/packages/powerautomatedesktop/)
 * [StakeCube Coin Wallet](https://chocolatey.org/packages/stakecubecoinwallet/)
 * [Ravensburger tiptoi Manager](https://chocolatey.org/packages/tiptoimanager/)
 
