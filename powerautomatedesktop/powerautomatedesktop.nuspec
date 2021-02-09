@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>powerautomatedesktop</id>
+    <version>2.3.2121</version>
+    <owners>RalfEs</owners>
+    <title>Power Automate Desktop (Install)</title>
+    <authors>Microsoft</authors>
+    <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/powerautomatedesktop.png</iconUrl>-->
+    <tags>powerautomatedesktop microsoft m365</tags>
+    <summary>__REPLACE__</summary>
+    <description>__REPLACE__MarkDown_Okay </description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
