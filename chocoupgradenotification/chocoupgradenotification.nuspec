@@ -4,11 +4,11 @@
   <metadata>
     <id>chocoupgradenotification</id>
     <version>1.0.0</version>
-    <packageSourceUrl>https://github.com/flcdrg/au-packages/tree/master/FreshBing</packageSourceUrl>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/chocoupgradenotification</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>Choco Upgrade Notification</title>
     <authors>Ralf Essbaumer</authors>
-    <projectUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/chocoupgradenotification</projectUrl>
+    <projectUrl>https://github.com/RalfEs73/ChocoUpgradeNotification</projectUrl>
     <copyright>2021 Ralf Essbaumer</copyright>
     <projectSourceUrl>https://github.com/RalfEs73/ChocoUpgradeNotification</projectSourceUrl>
     <bugTrackerUrl>https://github.com/RalfEs73/ChocoUpgradeNotification/issues</bugTrackerUrl>

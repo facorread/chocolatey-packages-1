@@ -1,6 +1,4 @@
-﻿$ErrorActionPreference = 'Stop'; # stop on all errors
-
-$toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
+﻿$toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
 $action = New-ScheduledTaskAction -Execute 'C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe' -Argument "-NoProfile -WindowStyle Hidden -ExecutionPolicy unrestricted -File ""$($toolsDir)\Get-ChocoUpgradeNotification.ps1"" "
 
