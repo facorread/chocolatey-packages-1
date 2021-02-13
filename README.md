@@ -37,6 +37,7 @@ choco install <packetname>
 * [Planet M.U.L.E.](https://chocolatey.org/packages/planetmule/)
 * [Power Automate Desktop](https://chocolatey.org/packages/powerautomatedesktop/)
 * [StakeCube Coin Wallet](https://chocolatey.org/packages/stakecubecoinwallet/)
+* [Thumbico](https://chocolatey.org/packages/thumbico/)
 * [Ravensburger tiptoi Manager](https://chocolatey.org/packages/tiptoimanager/)
 * [Touch Portal](https://chocolatey.org/packages/touchportal/)
 
