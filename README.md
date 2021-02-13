@@ -38,6 +38,7 @@ choco install <packetname>
 * [Power Automate Desktop](https://chocolatey.org/packages/powerautomatedesktop/)
 * [StakeCube Coin Wallet](https://chocolatey.org/packages/stakecubecoinwallet/)
 * [Ravensburger tiptoi Manager](https://chocolatey.org/packages/tiptoimanager/)
+* [Touch Portal](https://chocolatey.org/packages/touchportal/)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ralfes
