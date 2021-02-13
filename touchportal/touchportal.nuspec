@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>touchportal</id>
+    <version>2.2.005</version>
+    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>
+    <owners>RalfEs</owners>
+    <title>Touch Portal (Install)</title>
+    <authors>Touch Portal</authors>
+    <projectUrl>https://www.touch-portal.com/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/touchportal.png</iconUrl>
+    <docsUrl>https://www.touch-portal.com/blog/post/tutorials/get_started_with_touch_portal.php</docsUrl>
+    <tags>touchportal Touch Portal Streaming OBS</tags>
+    <summary>The macro multi action remote control. Control your desktop software and machine with your mobile device</summary>
+    <description>Use Touch Portal for scenes switching, hide/unhide sources, control your audio, start/stop your streams and recording, changing filters, scene collections, profiles and more.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
