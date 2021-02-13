@@ -8,7 +8,7 @@
     <title>Touch Portal (Install)</title>
     <authors>Touch Portal</authors>
     <projectUrl>https://www.touch-portal.com/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/touchportal/icon/Icon.png</iconUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/touchportal/icon/icon.png</iconUrl>
     <docsUrl>https://www.touch-portal.com/blog/post/tutorials/get_started_with_touch_portal.php</docsUrl>
     <tags>touchportal Touch Portal Streaming OBS</tags>
     <summary>The macro multi action remote control. Control your desktop software and machine with your mobile device</summary>
