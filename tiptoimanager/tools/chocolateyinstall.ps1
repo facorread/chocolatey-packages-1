@@ -11,7 +11,7 @@ $packageArgs = @{
   url64bit      = $url64
   
   softwareName  = 'tiptoimanager*'
-  checksum      = ''
+  checksum      = 'C0BA379CDDB67A1BEC9867170AD42140A994FE60B4FC3F5543F379BCA2BBA49E'
   checksumType  = 'sha256'
   checksum64    = ''
   checksumType64= 'sha256'

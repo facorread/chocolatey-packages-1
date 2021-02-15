@@ -11,9 +11,9 @@ $packageArgs = @{
   url64bit      = $url64
 
   softwareName  = 'movavivideoconverter*'
-  checksum      = ''
+  checksum      = '9461CC9E137054998877E87F5099AB6CFEAF1128F345ED0725EE58A8136B7F3E'
   checksumType  = 'sha256'
-  checksum64    = ''
+  checksum64    = '9461CC9E137054998877E87F5099AB6CFEAF1128F345ED0725EE58A8136B7F3E'
   checksumType64= 'sha256'
 
   silentArgs   = '/S'
