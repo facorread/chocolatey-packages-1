@@ -10,9 +10,9 @@ $packageArgs = @{
   url           = $url
   url64bit      = $url64
   softwareName  = 'movaviscreenrecorder*'
-  checksum      = ''
+  checksum      = '85EB42B6CA47B1CD86AD1CB2FF06587642F14D2B4946BEF08B03FC353AB91D86'
   checksumType  = 'sha256'
-  checksum64    = ''
+  checksum64    = '85EB42B6CA47B1CD86AD1CB2FF06587642F14D2B4946BEF08B03FC353AB91D86'
   checksumType64= 'sha256'
   silentArgs   = '/S'
 }
