@@ -10,9 +10,9 @@ $packageArgs = @{
   url           = $url
   url64bit      = $url64
   softwareName  = 'movavislideshowmaker*'
-  checksum      = ''
+  checksum      = '4E68456FC7D36CCF035A684D427955CA9A7977B360321E8E6820ABC7028393F4'
   checksumType  = 'sha256'
-  checksum64    = ''
+  checksum64    = '4E68456FC7D36CCF035A684D427955CA9A7977B360321E8E6820ABC7028393F4'
   checksumType64= 'sha256'
 
   silentArgs   = '/S'
