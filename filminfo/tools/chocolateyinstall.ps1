@@ -11,7 +11,7 @@ $packageArgs = @{
   url64bit      = $url64
 
   softwareName  = 'FilmInfo*'
-  checksum      = ''
+  checksum      = 'AC9DBA07504DEEF286B5D640CDB16318B8F253F34C956E506DDFC3A7F51AC499'
   checksumType  = 'sha256'
   checksum64    = ''
   checksumType64= 'sha256'
