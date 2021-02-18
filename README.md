@@ -29,6 +29,7 @@ choco install <packetname>
 * [AnyStream](https://chocolatey.org/packages/anystream/)
 * [Cloudberry Backup for Desktop](https://chocolatey.org/packages/cloudberrybackup/)
 * [DroidCam Client](https://chocolatey.org/packages/droidcamclient/)
+* [Exodus Wallet](https://chocolatey.org/packages/exoduswallet/)
 * [Film Info! Organiser](https://chocolatey.org/packages/filminfo/)
 * [Movavi Screen Recorder](https://chocolatey.org/packages/movaviscreenrecorder/)
 * [Movavi Slideshow Video Maker](https://chocolatey.org/packages/movavislideshowmaker/)
