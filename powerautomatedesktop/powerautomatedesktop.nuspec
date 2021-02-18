@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>powerautomatedesktop</id>
-    <version>2.4.63.21036</version>
+    <version>2.3.2121</version>
     <owners>RalfEs</owners>
     <title>Power Automate Desktop (Install)</title>
     <authors>Microsoft</authors>
