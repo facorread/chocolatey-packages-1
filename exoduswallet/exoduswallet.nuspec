@@ -3,12 +3,12 @@
   <metadata>
     <id>exoduswallet</id>
     <version>21.2.12</version>
-    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/exoduswallet</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>Exodus Wallet (Install)</title>
     <authors>Exodus Movement, Inc.</authors>
     <projectUrl>https://www.exodus.com/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/exoduswallet.png</iconUrl>
+    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/exoduswallet/icon/icon.png</iconUrl>
     <docsUrl>https://support.exodus.com/</docsUrl>
     <tags>exoduswallet wallet bitcoin ethereum crypto cryptocurrency trezor</tags>
     <summary>Cryptocurrency Wallet</summary>
