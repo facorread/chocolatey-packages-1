@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>exoduswallet</id>
+    <version>21.2.12</version>
+    <packageSourceUrl>Where is this Chocolatey package located (think GitHub)? packageSourceUrl is highly recommended for the community feed</packageSourceUrl>
+    <owners>RalfEs</owners>
+    <title>Exodus Wallet (Install)</title>
+    <authors>Exodus Movement, Inc.</authors>
+    <projectUrl>https://www.exodus.com/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/exoduswallet.png</iconUrl>
+    <docsUrl>https://support.exodus.com/</docsUrl>
+    <tags>exoduswallet wallet bitcoin ethereum crypto cryptocurrency trezor</tags>
+    <summary>Cryptocurrency Wallet</summary>
+    <description>Cryptocurrency Wallet with 100+ Digital Assets Available</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
