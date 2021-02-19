@@ -8,7 +8,7 @@
     <title>Thumbico (Install)</title>
     <authors>aurelitec</authors>
     <projectUrl>https://www.aurelitec.com/thumbico/windows/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/thumbico/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/aa81ea189d0d407abf0696c3293120d168a851f8/thumbico/icon/Icon.png</iconUrl>
     <docsUrl>https://www.aurelitec.com/thumbico/windows/help/</docsUrl>
     <tags>thumbico icon extract</tags>
     <summary>Get icons for any file or program.</summary>
