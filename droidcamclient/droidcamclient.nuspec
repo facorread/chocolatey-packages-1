@@ -8,7 +8,7 @@
     <title>DroidCam Client (Install)</title>
     <authors>Dev47Apps</authors>
     <projectUrl>https://www.dev47apps.com/droidcam/windows/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/droidcamclient/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/01dff070ae101c4251b6020a22cf66853c634c0f/droidcamclient/icon/Icon.png</iconUrl>
     <docsUrl>https://www.dev47apps.com/droidcam/help/</docsUrl>
     <tags>droidcamclient cam webcam usb</tags>
     <summary>DroidCam turns your phone and tablet into a webcam for your PC.</summary>
