@@ -7,7 +7,7 @@
     <title>Planet M.U.L.E. (Install)</title>
     <authors>Turborilla</authors>
     <projectUrl>http://www.planetmule.com/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/planetmule/icon/Icon.jpg</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/9134bfa16a72e294ea3e8b1d07bc19767a6fca7e/planetmule/icon/Icon.jpg</iconUrl>
     <docsUrl>http://www.planetmule.com/how-to-play/</docsUrl>
     <tags>planetmule mule game c64</tags>
     <summary>Planet M.U.L.E. is an online multiplayer strategy game by Swedish studio Turborilla. It is a remake of the 1983 classic M.U.L.E.</summary>
