@@ -8,7 +8,7 @@
     <title>Movavi Video Editor Plus (Install)</title>
     <authors>Movavi Software Ltd.</authors>
     <projectUrl>https://www.movavi.com/video-editor-plus/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/movavivideoeditorplus/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/9134bfa16a72e294ea3e8b1d07bc19767a6fca7e/movavivideoeditorplus/icon/Icon.png</iconUrl>
     <licenseUrl>https://www.movavi.com/tos.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://www.movavi.com/support/how-to/</docsUrl>
