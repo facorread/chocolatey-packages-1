@@ -8,7 +8,7 @@
     <title>Movavi Video Converter (Install)</title>
     <authors>Movavi Software Ltd.</authors>
     <projectUrl>https://www.movavi.de/videoconverter/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/movavivideoconverter/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/460b7b6a025a3d1295baa4eaf5ce06c97aec866e/movavivideoconverter/icon/Icon.png</iconUrl>
     <docsUrl>https://www.movavi.de/support/how-to/</docsUrl>
     <tags>movavivideoconverter movavi video converter</tags>
     <summary>Fast video converter</summary>
