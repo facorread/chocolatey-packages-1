@@ -6,7 +6,7 @@
     <title>Movavi Screen Recorder (Install)</title>
     <authors>Movavi Software Ltd.</authors>
     <projectUrl>https://www.movavi.com/screen-recorder/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/movaviscreenrecorder/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/460b7b6a025a3d1295baa4eaf5ce06c97aec866e/movaviscreenrecorder/icon/Icon.png</iconUrl>
     <docsUrl>https://www.movavi.com/support/how-to/</docsUrl>
     <tags>movaviscreenrecorder screen recorder capture</tags>
     <summary>Screen Recorder - Capture screens in one click</summary>
