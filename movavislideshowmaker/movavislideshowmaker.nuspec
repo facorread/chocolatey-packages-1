@@ -8,7 +8,7 @@
     <title>Movavi Slideshow Video Maker (Install)</title>
     <authors>Movavi Software Ltd.</authors>
     <projectUrl>https://www.movavi.com/slideshow-maker/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/movavislideshowmaker/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/460b7b6a025a3d1295baa4eaf5ce06c97aec866e/movavislideshowmaker/icon/Icon.png</iconUrl>
     <docsUrl>https://www.movavi.com/support/how-to/</docsUrl>
     <tags>movavislideshowmaker movavi slideshow creater</tags>
     <summary>Create Slideshows in 3 Easy Steps</summary>
