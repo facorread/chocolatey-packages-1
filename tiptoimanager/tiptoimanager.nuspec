@@ -8,7 +8,7 @@
     <title>Ravensburger tiptoi Manager (Install)</title>
     <authors>Ravensburger AG</authors>
     <projectUrl>https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/index.html</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/tiptoimanager/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/aa81ea189d0d407abf0696c3293120d168a851f8/tiptoimanager/icon/Icon.png</iconUrl>
     <licenseUrl>https://assets.ravensburger.com/legal/privacy/tiptoi_desktop/privacy_german.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://www.ravensburger.de/entdecken/ravensburger-marken/tiptoi/tiptoi-manager/index.html</projectSourceUrl>
