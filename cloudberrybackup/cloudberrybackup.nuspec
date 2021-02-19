@@ -8,7 +8,7 @@
     <title>Cloudberry Backup for Desktop (Install)</title>
     <authors>MSP360</authors>
     <projectUrl>https://www.msp360.com/backup/windows/desktop.aspx</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/cloudberrybackup/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/01dff070ae101c4251b6020a22cf66853c634c0f/cloudberrybackup/icon/Icon.png</iconUrl>
     <docsUrl>https://www.msp360.com/download/Backup_Installation_and_Configuration_Guide.pdf</docsUrl>
     <tags>cloudberrybackup cloudberry backup desktop msp360</tags>
     <summary>CloudBerry Backup provides SMBs with an affordable and secure backup solution that works on all major platforms.</summary>
