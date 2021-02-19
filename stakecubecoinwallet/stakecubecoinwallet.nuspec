@@ -8,7 +8,7 @@
     <title>StakeCube Coin Wallet (Install)</title>
     <authors>StakeCube</authors>
     <projectUrl>https://stakecube.net/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/stakecubecoinwallet/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/9134bfa16a72e294ea3e8b1d07bc19767a6fca7e/stakecubecoinwallet/icon/Icon.png</iconUrl>
 
     <bugTrackerUrl>https://github.com/stakecube/StakeCubeCoin/issues</bugTrackerUrl>
     <tags>stakecubecoinwallet crypto wallet</tags>
