@@ -8,7 +8,7 @@
     <title>Film Info! Organizer (Install)</title>
     <authors>RalfEs</authors>
     <projectUrl>https://github.com/RalfEs73/filminfoorganizer</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/filminfo/icon/Icon.jpg</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/0f9f4c189cea5ccd00ea4d3f206e30c7fd7cf8b2/filminfo/icon/Icon.jpg</iconUrl>
     <docsUrl>https://github.com/RalfEs73/filminfoorganizer/wiki</docsUrl>
     <projectSourceUrl>https://github.com/RalfEs73/filminfoorganizer</projectSourceUrl>
     <tags>film organizer tool</tags>
