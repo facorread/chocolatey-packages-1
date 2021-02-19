@@ -8,7 +8,7 @@
     <title>Exodus Wallet (Install)</title>
     <authors>Exodus Movement, Inc.</authors>
     <projectUrl>https://www.exodus.com/</projectUrl>
-    <iconUrl>https://github.com/RalfEs73/chocolatey-packages/raw/master/exoduswallet/icon/icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/0f9f4c189cea5ccd00ea4d3f206e30c7fd7cf8b2/exoduswallet/icon/icon.png</iconUrl>
     <docsUrl>https://support.exodus.com/</docsUrl>
     <tags>exoduswallet wallet bitcoin ethereum crypto cryptocurrency trezor</tags>
     <summary>Cryptocurrency Wallet</summary>
