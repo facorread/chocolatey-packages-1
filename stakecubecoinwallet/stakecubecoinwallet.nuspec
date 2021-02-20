@@ -14,9 +14,7 @@
     <tags>stakecubecoinwallet wallet cryptocurrency</tags>
     <summary>StakeCubeCoin Crypto Wallet</summary>
     <description>StakeCubeCoin is a cryptocurrency which is based on Dash code.
-	
-	### Package specific issue
-	If this package isn't up-to-date for some days, [Create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose)
+	If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
 	</description>
   </metadata>
   <files>
