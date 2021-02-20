@@ -12,7 +12,9 @@
     <docsUrl>https://support.exodus.com/</docsUrl>
     <tags>exoduswallet wallet bitcoin ethereum crypto cryptocurrency trezor</tags>
     <summary>Cryptocurrency Wallet</summary>
-    <description>Cryptocurrency Wallet with 100+ Digital Assets Available</description>
+    <description>Cryptocurrency Wallet with 100+ Digital Assets Available
+		If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).	
+	</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
