@@ -11,9 +11,13 @@
     <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/9134bfa16a72e294ea3e8b1d07bc19767a6fca7e/stakecubecoinwallet/icon/Icon.png</iconUrl>
 
     <bugTrackerUrl>https://github.com/stakecube/StakeCubeCoin/issues</bugTrackerUrl>
-    <tags>stakecubecoinwallet crypto wallet</tags>
+    <tags>stakecubecoinwallet wallet cryptocurrency</tags>
     <summary>StakeCubeCoin Crypto Wallet</summary>
-    <description>StakeCubeCoin is a Crypto Coin like Bitoin. This ist the Wallet for that coin.</description>
+    <description>StakeCubeCoin is a cryptocurrency which is based on Dash code.
+	
+	### Package specific issue
+	If this package isn't up-to-date for some days, [Create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose)
+	</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
