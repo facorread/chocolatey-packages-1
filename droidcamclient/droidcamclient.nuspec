@@ -12,7 +12,9 @@
     <docsUrl>https://www.dev47apps.com/droidcam/help/</docsUrl>
     <tags>droidcamclient cam webcam usb</tags>
     <summary>DroidCam turns your phone and tablet into a webcam for your PC.</summary>
-    <description>DroidCam turns your phone and tablet into a webcam for your PC. Use it with chat programs like Zoom, Microsoft Teams and Skype.</description>
+    <description>DroidCam turns your phone and tablet into a webcam for your PC. Use it with chat programs like Zoom, Microsoft Teams and Skype.
+		If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
+	</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
