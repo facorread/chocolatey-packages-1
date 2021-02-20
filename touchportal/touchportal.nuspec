@@ -12,7 +12,9 @@
     <docsUrl>https://www.touch-portal.com/blog/post/tutorials/get_started_with_touch_portal.php</docsUrl>
     <tags>touchportal Touch Portal Streaming OBS</tags>
     <summary>The macro multi action remote control. Control your desktop software and machine with your mobile device</summary>
-    <description>Use Touch Portal for scenes switching, hide/unhide sources, control your audio, start/stop your streams and recording, changing filters, scene collections, profiles and more.</description>
+    <description>Use Touch Portal for scenes switching, hide/unhide sources, control your audio, start/stop your streams and recording, changing filters, scene collections, profiles and more.
+		If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
+	</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
