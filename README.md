@@ -31,6 +31,7 @@ choco install <packetname>
 * [DroidCam Client](https://chocolatey.org/packages/droidcamclient/)
 * [Exodus Wallet](https://chocolatey.org/packages/exoduswallet/)
 * [Film Info! Organiser](https://chocolatey.org/packages/filminfo/)
+* [Gamecaster](https://chocolatey.org/packages/gamecaster/)
 * [Movavi Screen Recorder](https://chocolatey.org/packages/movaviscreenrecorder/)
 * [Movavi Slideshow Video Maker](https://chocolatey.org/packages/movavislideshowmaker/)
 * [Movavi Video Converter](https://chocolatey.org/packages/movavivideoconverter/)
