@@ -8,10 +8,12 @@
     <title>Gamecaster (Install)</title>
     <authors>Gamecaster Pte Ltd.</authors>
     <projectUrl>https://gamecaster.com/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/gamecaster.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/d94578819caa69194f36be483fbf9fc28ddc7271/gamecaster/icon/icon.png</iconUrl>
     <tags>gamecaster streaming game twitch facebook youtube</tags>
     <summary>Free software for video recording and live streaming.</summary>
-    <description>Get started in seconds and begin your journey to streaming greatness with Gamecaster for free. Go live to Twitch, Facebook or YouTube.</description>
+    <description>Get started in seconds and begin your journey to streaming greatness with Gamecaster for free. Go live to Twitch, Facebook or YouTube.
+		If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
+	</description>
     <releaseNotes>https://medium.com/gamecaster</releaseNotes>
   </metadata>
   <files>
