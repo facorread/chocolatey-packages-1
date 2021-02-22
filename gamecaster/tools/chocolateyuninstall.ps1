@@ -2,7 +2,7 @@
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   softwareName  = 'gamecaster*'
-  fileType      = 'EXE'
+  fileType      = 'MSI'
   silentArgs    = "/qn /norestart"
   validExitCodes= @(0, 3010, 1605, 1614, 1641)
 }
