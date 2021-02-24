@@ -4,15 +4,15 @@ $packageArgs = @{
   softwareName  = 'anystream*'  #part or all of the Display Name as you see it in Programs and Features. It should be enough to be unique
   fileType      = 'EXE' #only one of these: MSI or EXE (ignore MSU for now)
   # MSI
-  silentArgs    = "/qn /norestart"
-  validExitCodes= @(0, 3010, 1605, 1614, 1641) # https://msdn.microsoft.com/en-us/library/aa376931(v=vs.85).aspx
+  # silentArgs    = "/qn /norestart"
+  # validExitCodes= @(0, 3010, 1605, 1614, 1641) # https://msdn.microsoft.com/en-us/library/aa376931(v=vs.85).aspx
   # OTHERS
   # Uncomment matching EXE type (sorted by most to least common)
   #silentArgs   = '/S'           # NSIS
   #silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' # Inno Setup
   #silentArgs   = '/s'           # InstallShield
-  silentArgs   = '/s /v"/qn"'   # InstallShield with MSI
-  #silentArgs   = '/s'           # Wise InstallMaster
+  #silentArgs   = '/s /v"/qn"'   # InstallShield with MSI
+  silentArgs   = '/s'           # Wise InstallMaster
   #silentArgs   = '-s'           # Squirrel
   #silentArgs   = '-q'           # Install4j
   #silentArgs   = '-s -u'        # Ghost
