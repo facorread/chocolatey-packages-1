@@ -13,10 +13,9 @@ $file  = @($local_key, $local_key6432, $machine_key, $machine_key6432) `
     | Select-Object -ExpandProperty InstallLocation
 
 $installerType = 'EXE'
-$silentArgs = "/S"
 $validExitCodes = @(0)
 
-$file = '"' + $file + "\AnyStream-uninst.exe" + '"', $silentArgs + " /D=" + '"' + $file + '"'
+$file = '"' + $file + "\AnyStream-uninst.exe" + '"', "/S /D=" + '"' + $file + '"'
 
 if ($shouldUninstall) {
 	Uninstall-ChocolateyPackage -PackageName $packageName -FileType $installerType -validExitCodes $validExitCodes -File $file
