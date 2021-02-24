@@ -12,9 +12,9 @@ $packageArgs = @{
   #silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' # Inno Setup
   #silentArgs   = '/s'           # InstallShield
   #silentArgs   = '/s /v"/qn"'   # InstallShield with MSI
-  silentArgs   = '/s'           # Wise InstallMaster
+  # silentArgs   = '/s'           # Wise InstallMaster
   #silentArgs   = '-s'           # Squirrel
-  #silentArgs   = '-q'           # Install4j
+  silentArgs   = '-q'           # Install4j
   #silentArgs   = '-s -u'        # Ghost
   # Note that some installers, in addition to the silentArgs above, may also need assistance of AHK to achieve silence.
   #silentArgs   = ''             # none; make silent with input macro script like AutoHotKey (AHK)
