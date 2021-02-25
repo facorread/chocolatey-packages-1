@@ -16,7 +16,8 @@ $installerType = 'EXE'
 $validExitCodes = @(0)
 
 $silentArgs = "/S /D=" + '"' + $path + '"'
-$file = '"' + $path + "\AnyStream-uninst.exe" + '"'
+# $file = '"' + $path + "\AnyStream-uninst.exe" + '"'
+$file = $path + "\AnyStream-uninst.exe"
 
 Write-Host "file: " $file
 Write-Host "silentArgs: " $silentArgs
