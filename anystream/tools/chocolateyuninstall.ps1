@@ -7,7 +7,7 @@ $local_key6432   = "HKCU:\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\
 $machine_key   = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AnyStream64"
 $machine_key6432 = "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\AnyStream"
  
-$file  = @($local_key, $local_key6432, $machine_key, $machine_key6432) `
+$path  = @($local_key, $local_key6432, $machine_key, $machine_key6432) `
     | ?{ Test-Path $_ } `
     | Get-ItemProperty `
     | Select-Object -ExpandProperty InstallLocation
@@ -15,9 +15,8 @@ $file  = @($local_key, $local_key6432, $machine_key, $machine_key6432) `
 $installerType = 'EXE'
 $validExitCodes = @(0)
 
-# $silentArgs = "/S /D=" + '"' + $file + '"'
-$silentArgs = "/S"
-$file = '"' + $file + "\AnyStream-uninst.exe" + '"'
+$silentArgs = "/S /D=" + '"' + $path + '"'
+$file = '"' + $path + "\AnyStream-uninst.exe" + '"'
 
 Write-Host "file: " + $file
 Write-Host "silentArgs: " + $silentArgs
