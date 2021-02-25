@@ -18,8 +18,8 @@ $validExitCodes = @(0)
 $silentArgs = "/S /D=" + '"' + $path + '"'
 $file = '"' + $path + "\AnyStream-uninst.exe" + '"'
 
-Write-Host "file: " + $file
-Write-Host "silentArgs: " + $silentArgs
+Write-Host "file: " $file
+Write-Host "silentArgs: " $silentArgs
 
 if ($shouldUninstall) {
 	Uninstall-ChocolateyPackage -PackageName $packageName -FileType $installerType -SilentArgs $silentArgs -validExitCodes $validExitCodes -File $file
