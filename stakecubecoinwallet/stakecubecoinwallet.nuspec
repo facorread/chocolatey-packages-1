@@ -9,7 +9,7 @@
     <authors>StakeCube</authors>
     <projectUrl>https://stakecube.net/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/9134bfa16a72e294ea3e8b1d07bc19767a6fca7e/stakecubecoinwallet/icon/Icon.png</iconUrl>
-
+	<licenseUrl>https://stakecube.net/terms</licenseUrl>
     <bugTrackerUrl>https://github.com/stakecube/StakeCubeCoin/issues</bugTrackerUrl>
     <tags>stakecubecoinwallet wallet cryptocurrency</tags>
     <summary>StakeCubeCoin Crypto Wallet</summary>
