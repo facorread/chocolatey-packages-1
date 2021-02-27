@@ -13,7 +13,7 @@
     <tags>exoduswallet wallet bitcoin ethereum crypto cryptocurrency trezor</tags>
 	<releaseNotes>https://www.exodus.com/releases/</releaseNotes>
     <summary>Cryptocurrency Wallet</summary>
-    <description>Cryptocurrency Wallet with 100+ Digital Assets Available
+    <description>Cryptocurrency Wallet with 100+ Digital Assets.
 		If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).	
 	</description>
   </metadata>
