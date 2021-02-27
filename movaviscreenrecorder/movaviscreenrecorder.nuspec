@@ -4,15 +4,19 @@
     <id>movaviscreenrecorder</id>
     <version>21.1.0</version>
     <title>Movavi Screen Recorder (Install)</title>
+    <owners>RalfEs</owners>
     <authors>Movavi Software Ltd.</authors>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/movaviscreenrecorder</packageSourceUrl>
     <projectUrl>https://www.movavi.com/screen-recorder/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/460b7b6a025a3d1295baa4eaf5ce06c97aec866e/movaviscreenrecorder/icon/Icon.png</iconUrl>
     <docsUrl>https://www.movavi.com/support/how-to/</docsUrl>
+	<licenseUrl>https://www.movavi.com/screen-recorder/personal/buynow.html</licenseUrl>
     <tags>movaviscreenrecorder screen recorder capture</tags>
     <summary>Screen Recorder - Capture screens in one click</summary>
     <description>- Capture webinars and online calls
 		- Record video instructions and tutorials
 		- Grab streaming videos and online events
+		If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
 	</description>
   </metadata>
   <files>
