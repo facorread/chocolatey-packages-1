@@ -8,7 +8,7 @@
     <title>Encrypto (Install)</title>
     <authors>RalfEs</authors>
     <projectUrl>https://macpaw.com/encrypto</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/encrypto.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/a12156c67f883757d0cfa79d76b91f9f3dafe3c5/encrypto/icon/icon.png</iconUrl>
     <licenseUrl>https://macpaw.com/eula</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <mailingListUrl>https://macpaw.com/encrypto</mailingListUrl>
