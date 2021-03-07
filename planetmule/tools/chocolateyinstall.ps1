@@ -15,7 +15,9 @@ $packageArgs = @{
   checksumType   = 'sha256'
   }
 
-Install-ChocolateyZipPackage @packageArgs
+# Install-ChocolateyZipPackage @packageArgs
+Get-ChocolateyUnzip @packageArgs
+
 
 Install-ChocolateyShortcut -shortcutFilePath "$env:Public\Desktop\$Shortcut" -targetPath "$toolsDir\Mule\$ProgramEXE" -WorkingDirectory "$toolsDir"
 Install-ChocolateyShortcut -shortcutFilePath "$env:ProgramData\Microsoft\Windows\Start Menu\Programs\$Shortcut" -targetPath "$toolsDir\Mule\$ProgramEXE"    
