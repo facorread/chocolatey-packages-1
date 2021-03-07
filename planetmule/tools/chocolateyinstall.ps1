@@ -1,19 +1,15 @@
 ﻿$ErrorActionPreference = 'Stop'
 $packageName = 'planetmule' 
-$toolsDir    = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url         = "$toolsDir\planetmule.zip"
+$toolsPath = Split-Path $MyInvocation.MyCommand.Definition
 $checksum    = '2E1FDB66EA9808D0F56A89A70657F3CC4DD7464DACB5C3EC9B79C49BC3901815'
 $Shortcut    = 'Mule.lnk'
 $ProgramEXE  = 'mule.exe'
 
 $packageArgs = @{
-  packageName    = $packageName
-  unzipLocation  = $toolsDir
-  fileType       = 'ZIP' 
-  url            = $url
-  checksum       = $checksum
-  checksumType   = 'sha256'
-  }
+    PackageName    = $packageName
+    FileFullPath   = "$toolsPath\planetmule.zip"
+    Destination    = $toolsPath
+}
 
 # Install-ChocolateyZipPackage @packageArgs
 Get-ChocolateyUnzip @packageArgs
