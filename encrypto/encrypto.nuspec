@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>encrypto</id>
+    <version>1.0.1.0</version>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/encrypto</packageSourceUrl>
+    <owners>RalfEs</owners>
+    <title>Encrypto (Install)</title>
+    <authors>RalfEs</authors>
+    <projectUrl>https://macpaw.com/encrypto</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/encrypto.png</iconUrl>
+    <licenseUrl>https://macpaw.com/eula</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <mailingListUrl>https://macpaw.com/encrypto</mailingListUrl>
+    <tags>encrypto crypto cryptographer AES-256 password</tags>
+    <summary>Protect files with AES-256 encryption</summary>
+    <description>Encrypto lets you encrypt files before sending them to friends or coworkers. Drop a file into Encrypto, set a password, and then send it with added security.
+		If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
+	</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
