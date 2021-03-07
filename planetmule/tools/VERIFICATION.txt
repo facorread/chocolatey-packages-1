@@ -1,1 +1,7 @@
-This binary was directly downloaded and packaged up by bcurran3 from http://www.planetmule.com/. Checksums were manually created.
+This binary was directly downloaded and packaged up by bcurran3 from http://www.planetmule.com/.
+
+You can use one of the following methods to obtain the SHA256 checksum:
+   - Use powershell function 'Get-FileHash'
+   - Use Chocolatey utility 'checksum.exe'
+
+   checksum: 2E1FDB66EA9808D0F56A89A70657F3CC4DD7464DACB5C3EC9B79C49BC3901815
