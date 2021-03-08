@@ -4,6 +4,7 @@
     <id>planetmule</id>
     <version>1.3.6</version>
     <owners>RalfEs</owners>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/planetmule</packageSourceUrl>
     <title>Planet M.U.L.E. (Install)</title>
     <authors>Turborilla</authors>
     <projectUrl>http://www.planetmule.com/</projectUrl>
