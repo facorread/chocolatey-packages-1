@@ -15,7 +15,9 @@
     <mailingListUrl>https://www.movavi.com/support/upgrade.html</mailingListUrl>
     <tags>movavivideoeditorplus video editor cutting media movie</tags>
     <summary>Movavi Video Editor Plus makes video editing surprisingly easy.</summary>
-    <description>The drag-and-drop editor and video assets help you complete your videos faster. No video experience needed.</description>
+    <description>The drag-and-drop editor and video assets help you complete your videos faster. No video experience needed.
+		If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).	
+	</description>
     <releaseNotes>https://www.movavi.com/video-editor-plus/whats-new.html</releaseNotes>
   </metadata>
   <files>
