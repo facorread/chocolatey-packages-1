@@ -1,5 +1,7 @@
 ﻿$ErrorActionPreference = 'Stop'
-$packageName = 'planetmule' 
+$packageName = 'planetmule'
+$url        = 'https://download.amazongames.com/AmazonGamesSetup.exe'
+
 $toolsPath = Split-Path $MyInvocation.MyCommand.Definition
 $toolsDir    = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $checksum    = '2E1FDB66EA9808D0F56A89A70657F3CC4DD7464DACB5C3EC9B79C49BC3901815'
@@ -11,6 +13,8 @@ $packageArgs = @{
     FileFullPath   = "$toolsPath\planetmule.zip"
     Destination    = $toolsDir
 }
+
+Get-ChocolateyWebFile -PackageName 'planetmule' -FileFullPath "$FileFullPath" -Url '$url'
 
 Get-ChocolateyUnzip @packageArgs
 
