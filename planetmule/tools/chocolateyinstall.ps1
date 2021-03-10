@@ -13,7 +13,7 @@ $packageArgs = @{
     Destination    = $toolsDir
 }
 
-Get-ChocolateyWebFile -PackageName 'planetmule' -FileFullPath "$FileFullPath" -Url 'https://kumisystems.dl.sourceforge.net/project/planetmule/1.3.6/mule_windows_1.3.6.zip'
+Get-ChocolateyWebFile -PackageName 'planetmule' -FileFullPath "$toolsPath\mule_windows_1.3.6.zip" -Url 'https://kumisystems.dl.sourceforge.net/project/planetmule/1.3.6/mule_windows_1.3.6.zip'
 Get-ChocolateyUnzip @packageArgs
 
 Install-ChocolateyShortcut -shortcutFilePath "$env:Public\Desktop\$Shortcut" -targetPath "$toolsDir\Mule\$ProgramEXE" -WorkingDirectory "$toolsDir"
