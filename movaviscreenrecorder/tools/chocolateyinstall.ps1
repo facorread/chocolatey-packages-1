@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   url           = $url
   softwareName  = 'movaviscreenrecorder*'
-  checksum      = '85EB42B6CA47B1CD86AD1CB2FF06587642F14D2B4946BEF08B03FC353AB91D86'
+  checksum      = '6A0F310D4633B7D25AE207873926294EDA13AD802A88AEBC751788B5A23302E0'
   checksumType  = 'sha256'
   silentArgs   = '/S'
 }
