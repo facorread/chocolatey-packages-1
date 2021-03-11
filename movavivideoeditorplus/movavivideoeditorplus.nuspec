@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>movavivideoeditorplus</id>
-    <version>21.2.0</version>
+    <version>21.2.1</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/movavivideoeditorplus</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>Movavi Video Editor Plus (Install)</title>
