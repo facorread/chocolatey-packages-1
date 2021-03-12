@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url64      = 'https://downloads.exodus.com/releases/exodus-windows-x64-21.3.2.exe'
+$url64      = 'https://downloads.exodus.com/releases/exodus-windows-x64-21.3.12.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
