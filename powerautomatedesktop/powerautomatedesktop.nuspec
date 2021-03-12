@@ -14,7 +14,9 @@
 	<releaseNotes>https://flow.microsoft.com/de-de/blog/</releaseNotes>
 	<tags>powerautomatedesktop microsoft m365 flow powerautomate</tags>
     <summary>Use the desktop and web recorders to create flows while you edit the recorded actions in real time over the web or on the desktop.</summary>
-    <description>Desktop flows are used to automate tasks on the Web or the desktop. Using Power Automate Desktop you can automate tasks on the desktop as well as the Web. Alternatively, you can use the two legacy methods of creating desktop flow</description>
+    <description>Desktop flows are used to automate tasks on the Web or the desktop. Using Power Automate Desktop you can automate tasks on the desktop as well as the Web. Alternatively, you can use the two legacy methods of creating desktop flow.
+		If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
+	</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
