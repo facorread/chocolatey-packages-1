@@ -8,7 +8,7 @@ $packageArgs = @{
   fileType      = 'EXE'
   url64bit      = $url64
   softwareName  = 'exoduswallet*'
-  checksum64    = '27A034A8EDD8D081372419E718F3E15ECEAE1BFFEB89E147F01E97EDB512DAB6'
+  checksum64    = '0FCB87F5B2ABD9AEC8AF9DBBAD4B0BDCC667DE88EA1EC81995FDD34E354629A9'
   checksumType64= 'sha256'
   silentArgs   = '/s /v"/qn"'
 }
