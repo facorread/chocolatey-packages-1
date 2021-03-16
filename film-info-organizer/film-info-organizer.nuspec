@@ -7,10 +7,10 @@
     <owners>Ralf Essbaumer</owners>
     <title>Film Info! Organizer (Install)</title>
     <authors>RalfEs</authors>
-    <projectUrl>https://github.com/RalfEs73/filminfoorganizer</projectUrl>
+    <projectUrl>https://github.com/RalfEs73/film-info-organizer</projectUrl>
     <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/ead4fc0528f042e086f47078d200b1f71b43f356/film-info-organizer/icon/Icon.jpg</iconUrl>
-    <docsUrl>https://github.com/RalfEs73/filminfoorganizer/wiki</docsUrl>
-    <projectSourceUrl>https://github.com/RalfEs73/filminfoorganizer</projectSourceUrl>
+    <docsUrl>https://github.com/RalfEs73/film-info-organizer/wiki</docsUrl>
+    <projectSourceUrl>https://github.com/RalfEs73/film-info-organizer</projectSourceUrl>
     <tags>film organizer tool</tags>
     <summary>Film Info! Organizer or Fi! O abbreviated, is a small program with which you can easily organize your movie database.</summary>
     <description>This application is only available on German. With this little tool you have your movie database in the grip.</description>
