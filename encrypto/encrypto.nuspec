@@ -6,7 +6,7 @@
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/encrypto</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>Encrypto (Install)</title>
-    <authors>RalfEs</authors>
+    <authors>MacPaw Inc.</authors>
     <projectUrl>https://macpaw.com/encrypto</projectUrl>
     <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/a12156c67f883757d0cfa79d76b91f9f3dafe3c5/encrypto/icon/icon.png</iconUrl>
     <licenseUrl>https://macpaw.com/eula</licenseUrl>
