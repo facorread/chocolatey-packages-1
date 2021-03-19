@@ -7,7 +7,7 @@
     <title>CloudBerry Drive (Install)</title>
     <authors>MSP360</authors>
     <projectUrl>https://www.msp360.com/drive.aspx</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/cloudberrydrive.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/151f560c7bca6ef871c534e908e691ddccec0ecb/cloudberrydrive/icon/icon.png</iconUrl>
     <docsUrl>https://www.msp360.com/resources/video-tutorials/msp360-drive/</docsUrl>
     <tags>cloudberrydrive azure amazons3 storage</tags>
     <summary>Mounts your Azure and/or Amazon S3 Storage</summary>
