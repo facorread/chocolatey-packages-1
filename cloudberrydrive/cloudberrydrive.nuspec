@@ -1,0 +1,21 @@
+﻿<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>cloudberrydrive</id>
+    <version>3.1.0.20</version>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/cloudberrydrive</packageSourceUrl>
+    <owners>RalfEs</owners>
+    <title>CloudBerry Drive (Install)</title>
+    <authors>MSP360</authors>
+    <projectUrl>https://www.msp360.com/drive.aspx</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/cloudberrydrive.png</iconUrl>
+    <docsUrl>https://www.msp360.com/resources/video-tutorials/msp360-drive/</docsUrl>
+    <tags>cloudberrydrive azure amazons3 storage</tags>
+    <summary>Mounts your Azure and/or Amazon S3 Storage</summary>
+    <description>CloudBerry Drive mounts your Azure and/or Amazon S3 account as a network or external drive to your Windows computer.
+			If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
+	</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

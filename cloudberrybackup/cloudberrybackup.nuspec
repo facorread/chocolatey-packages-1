@@ -5,7 +5,7 @@
     <version>7.0.4.3</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/cloudberrybackup</packageSourceUrl>
     <owners>RalfEs</owners>
-    <title>Cloudberry Backup for Desktop (Install)</title>
+    <title>CloudBerry Backup for Desktop (Install)</title>
     <authors>MSP360</authors>
     <projectUrl>https://www.msp360.com/backup/windows/desktop.aspx</projectUrl>
     <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/01dff070ae101c4251b6020a22cf66853c634c0f/cloudberrybackup/icon/Icon.png</iconUrl>
