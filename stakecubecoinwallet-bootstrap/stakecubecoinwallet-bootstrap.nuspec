@@ -20,10 +20,7 @@
 	If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
 	</description>
 	<dependencies>
-		<dependency id="kb2919355" />
+		<dependency id="stakecubecoinwallet" />
 	</dependencies>
   </metadata>
-  <files>
-    <file src="tools\**" target="tools" />
-  </files>
 </package>
