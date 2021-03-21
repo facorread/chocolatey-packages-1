@@ -20,5 +20,6 @@ Get-ChocolateyUnzip @packageArgs
 
 New-Item -Path "$toolsDestination" -ItemType directory -Force | Out-Null
 Copy-Item "$toolsPath\.scc\*" "$toolsDestination" -recurse
+Remove-Item "$toolsPath\.scc" -Recurse
 
 
