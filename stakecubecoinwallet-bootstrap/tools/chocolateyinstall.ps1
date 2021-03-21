@@ -17,3 +17,8 @@ $packageArgs = @{
 
 Get-ChocolateyWebFile -PackageName 'stakecubecoinwallet-bootstrap' -FileFullPath "$toolsPath\bootstrap.zip" -Url 'https://github.com/stakecube/StakeCubeCoin/releases/download/v3.1.0/bootstrap.zip'
 Get-ChocolateyUnzip @packageArgs
+
+New-Item -Path "$toolsDestination" -ItemType directory -Force | Out-Null
+Copy-Item "$toolsPath\.scc\*" "$toolsDestination" -recurse
+
+
