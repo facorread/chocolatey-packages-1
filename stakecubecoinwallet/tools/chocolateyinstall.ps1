@@ -9,7 +9,7 @@ $packageArgs = @{
   url           = $url
   url64bit      = $url64
   softwareName  = 'stakecubecoinwallet*'
-  checksum64    = '7C6B11A786F5A4F4CF18A47532CED74B8CAD0A77E71ADC6B90A64283E06681EF'
+  checksum64    = '8A8178EE45DC2286344CD6606733035C8CF4E8BEFE4F9A53B32840E2C0C0A5C2'
   checksumType64= 'sha256'
   silentArgs   = '/S'
 }
