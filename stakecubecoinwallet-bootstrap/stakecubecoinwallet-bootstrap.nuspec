@@ -14,13 +14,14 @@
     <tags>stakecubecoinwallet wallet cryptocurrency</tags>
     <summary>StakeCubeCoin Crypto Wallet Bootstrap</summary>
     <description>StakeCubeCoin is a cryptocurrency which is based on Dash code.
-	This packet contains the current blockchain dump. So prerequisite of this package is the StakeCubeCoin Wallet with installed.
+	This packet contains the current blockchain dump.
+	The prerequisite for this package is the StakeCubeCoin Wallet and will be installed..
 	If you have already synced the blockchain on your PC, install the stakecubecoinwallet packet.
 	If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
 	</description>
-  <dependencies>
-      <dependency id="stakecubecoinwallet" />
-  </dependencies>
+	<dependencies>
+		<dependency id="kb2919355" />
+	</dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
