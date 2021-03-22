@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://downloads.gamecaster.com/4.0.2012.0901/Gamecaster_Installer_4.0.2012.0901.exe'
+$url        = 'https://downloads.gamecaster.com/4.0.2012.0901/Gamecaster_Installer_4.0.2012.0902.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
