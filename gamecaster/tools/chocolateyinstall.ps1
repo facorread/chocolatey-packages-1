@@ -9,7 +9,7 @@ $packageArgs = @{
   url           = $url
 
   softwareName  = 'gamecaster*'
-  checksum      = '0F4A49EB0B2C44E219C42034DF9BFA1BF3D6D05987C20685CD6F3A53B6FA6BC4'
+  checksum      = 'DE4183376F12FAF5001D68AC551A393E1F4AB7AF6BD85CD854FE6CA88F5BF9EB'
   checksumType  = 'sha256'
   silentArgs    = "/exenoupdates /qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`""
   validExitCodes= @(0, 3010, 1641)

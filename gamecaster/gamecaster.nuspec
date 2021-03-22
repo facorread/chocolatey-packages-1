@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>gamecaster</id>
-    <version>4.0.2012.0901</version>
+    <version>4.0.2012.0902</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/gamecaster</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>Gamecaster (Install)</title>
