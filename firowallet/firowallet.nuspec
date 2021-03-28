@@ -7,10 +7,11 @@
     <owners>RalfEs</owners>
     <title>Firo Coin Wallet (Install)</title>
     <authors>Firo Org</authors>
-    <projectUrl>https://firo.org//</projectUrl>
+    <projectUrl>https://firo.org/</projectUrl>
     <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/13d33bca158bab039132d772a4a70b4467059e7c/firowallet/icon/Icon.png</iconUrl>
 	<licenseUrl>https://firo.org/privacy-policy/</licenseUrl>
     <bugTrackerUrl>https://github.com/firoorg/firo/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/firoorg/firo</projectSourceUrl>
     <tags>firowallet wallet cryptocurrency</tags>
     <summary>Firo Crypto Wallet</summary>
     <description>Firo is a cryptocurrency.
