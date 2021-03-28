@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>firowallet</id>
+    <version>0.14.5.3</version>
+	<packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/firowallet</packageSourceUrl>
+    <owners>RalfEs</owners>
+    <title>Firo Coin Wallet (Install)</title>
+    <authors>Firo Org</authors>
+    <projectUrl>https://firo.org//</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/9134bfa16a72e294ea3e8b1d07bc19767a6fca7e/firowallet/icon/Icon.png</iconUrl>
+	<licenseUrl>https://firo.org/privacy-policy/</licenseUrl>
+    <bugTrackerUrl>https://github.com/stakecube/StakeCubeCoin/issues</bugTrackerUrl>
+    <tags>firowallet wallet cryptocurrency</tags>
+    <summary>Firo Crypto Wallet</summary>
+    <description>Firo is a cryptocurrency.
+	If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
+	</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
