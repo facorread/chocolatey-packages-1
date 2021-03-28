@@ -33,6 +33,7 @@ choco install <packetname>
 * [Encrypto](https://chocolatey.org/packages/encrypto/)
 * [Exodus Wallet](https://chocolatey.org/packages/exoduswallet/)
 * [Film Info! Organiser](https://chocolatey.org/packages/film-info-organizer/)
+* [Firo Wallet](https://chocolatey.org/packages/firowallet/)
 * [Gamecaster](https://chocolatey.org/packages/gamecaster/)
 * [Movavi Screen Recorder](https://chocolatey.org/packages/movaviscreenrecorder/)
 * [Movavi Slideshow Video Maker](https://chocolatey.org/packages/movavislideshowmaker/)
