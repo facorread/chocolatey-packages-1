@@ -8,7 +8,7 @@
     <title>Ledger Live (Install)</title>
     <authors>Ledger SAS</authors>
     <projectUrl>https://www.ledger.com/</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/13d33bca158bab039132d772a4a70b4467059e7c/firowallet/icon/Icon.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/3da2f876a97ce12d9b86a80cc7619e83dc9efa91/ledger-live/icon/Icon.png</iconUrl>
 	<licenseUrl>https://shop.ledger.com/pages/ledger-live-terms-of-use/</licenseUrl>
     <bugTrackerUrl>https://github.com/LedgerHQ/ledger-live-desktop/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/LedgerHQ/ledger-live-desktop</projectSourceUrl>
