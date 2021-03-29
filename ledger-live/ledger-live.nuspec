@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ledger-live</id>
+    <version>2.24.0</version>
+	<packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/ledger-live</packageSourceUrl>
+    <owners>RalfEs</owners>
+    <title>Ledger Live (Install)</title>
+    <authors>Ledger SAS</authors>
+    <projectUrl>https://www.ledger.com/</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/13d33bca158bab039132d772a4a70b4467059e7c/firowallet/icon/Icon.png</iconUrl>
+	<licenseUrl>https://shop.ledger.com/pages/ledger-live-terms-of-use/</licenseUrl>
+    <bugTrackerUrl>https://github.com/LedgerHQ/ledger-live-desktop/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/LedgerHQ/ledger-live-desktop</projectSourceUrl>
+    <tags>ledger-live hardwarewallet cryptocurrency</tags>
+    <summary>Ledger Live Wallet</summary>
+    <description>Ledger Live is a cryptocurrency Hardware Wallet Client.
+	If this package isn't up-to-date for some days, please [create an issue](https://github.com/RalfEs73/chocolatey-packages/issues/new/choose).
+	</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
