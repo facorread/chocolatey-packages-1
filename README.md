@@ -35,6 +35,7 @@ choco install <packetname>
 * [Film Info! Organiser](https://chocolatey.org/packages/film-info-organizer/)
 * [Firo Wallet](https://chocolatey.org/packages/firowallet/)
 * [Gamecaster](https://chocolatey.org/packages/gamecaster/)
+* [Ledger Live](https://chocolatey.org/packages/ledger-live/)
 * [Movavi Screen Recorder](https://chocolatey.org/packages/movaviscreenrecorder/)
 * [Movavi Slideshow Video Maker](https://chocolatey.org/packages/movavislideshowmaker/)
 * [Movavi Video Converter](https://chocolatey.org/packages/movavivideoconverter/)
