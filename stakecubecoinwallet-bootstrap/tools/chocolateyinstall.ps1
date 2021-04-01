@@ -1,12 +1,9 @@
 ﻿$ErrorActionPreference = 'Stop'
 $packageName		= 'stakecubecoinwallet-bootstrap'
 
-$CurrentUser		= [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
-$CurrentUserName	= $CurrentUser.split("\")[1]
-
 $toolsPath			= Split-Path $MyInvocation.MyCommand.Definition
 $toolsDir			= "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$toolsDestination	= "C:\Users\$CurrentUserName\AppData\Roaming\StakeCubeCoin"
+$toolsDestination = Join-Path $env:appdata "StakeCubeCoin"
 $checksum64		    = '83826ACAB663AAF6F26FF552B6DAA0DCDE4A3576FFC48D741DC43061C5FB8C0F'
 
 
