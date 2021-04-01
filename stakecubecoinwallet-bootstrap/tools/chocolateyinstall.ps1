@@ -14,7 +14,7 @@ $packageArgs = @{
 }
 
 # Get-ChocolateyWebFile -PackageName 'stakecubecoinwallet-bootstrap' -FileFullPath "$toolsPath\bootstrap.zip" -Url 'https://github.com/stakecube/StakeCubeCoin/releases/download/v3.1.0/bootstrap.zip'
-Get-ChocolateyWebFile -Checksum $checksum_file -ChecksumType 'SHA256' -PackageName 'stakecubecoinwallet-bootstrap' -FileFullPath "$toolsPath\bootstrap.zip" -Url 'https://github.com/stakecube/StakeCubeCoin/releases/download/v3.1.0/bootstrap.zip'
+Get-ChocolateyWebFile -Checksum $checksum_file -ChecksumType 'sha256' -PackageName 'stakecubecoinwallet-bootstrap' -FileFullPath "$toolsPath\bootstrap.zip" -Url 'https://github.com/stakecube/StakeCubeCoin/releases/download/v3.1.0/bootstrap.zip'
 
 Get-ChocolateyUnzip @packageArgs
 
