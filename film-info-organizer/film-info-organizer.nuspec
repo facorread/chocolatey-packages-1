@@ -4,15 +4,14 @@
     <id>film-info-organizer</id>
     <version>0.6.1.3</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/film-info-organizer</packageSourceUrl>
-    <owners>Ralf Essbaumer</owners>
+    <owners>RalfEs</owners>
     <title>Film Info! Organizer (Install)</title>
     <authors>Sebastian Humann</authors>
-    <projectUrl>https://github.com/RalfEs73/film-info-organizer</projectUrl>
+    <projectUrl>https://github.com/StatusQuo/filminfoorganizer</projectUrl>
     <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/ead4fc0528f042e086f47078d200b1f71b43f356/film-info-organizer/icon/Icon.jpg</iconUrl>
-    <docsUrl>https://github.com/RalfEs73/film-info-organizer/wiki</docsUrl>
-    <projectSourceUrl>https://github.com/RalfEs73/film-info-organizer</projectSourceUrl>
+    <projectSourceUrl>https://github.com/StatusQuo/filminfoorganizer</projectSourceUrl>
     <tags>film organizer tool</tags>
-    <summary>Film Info! Organizer or Fi! O abbreviated, is a small program with which you can easily organize your movie database.</summary>
+    <summary>Film Info! Organizer or Fi!O abbreviated, is a small program with which you can easily organize your movie database.</summary>
     <description>This application is only available on German. With this little tool you have your movie database in the grip.</description>
   </metadata>
   <files>
