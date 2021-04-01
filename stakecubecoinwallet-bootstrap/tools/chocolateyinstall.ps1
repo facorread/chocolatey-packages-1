@@ -7,6 +7,7 @@ $CurrentUserName	= $CurrentUser.split("\")[1]
 $toolsPath			= Split-Path $MyInvocation.MyCommand.Definition
 $toolsDir			= "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $toolsDestination	= "C:\Users\$CurrentUserName\AppData\Roaming\StakeCubeCoin"
+$checksum64		    = '83826ACAB663AAF6F26FF552B6DAA0DCDE4A3576FFC48D741DC43061C5FB8C0F'
 
 
 $packageArgs = @{
