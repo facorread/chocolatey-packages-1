@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>droidcamclient</id>
-    <version>6.4.2</version>
+    <version>6.4.3</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/droidcamclient</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>DroidCam Client (Install)</title>

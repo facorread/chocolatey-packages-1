@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://files.dev47apps.net/win/DroidCam.Setup.6.4.2.exe'
+$url        = 'https://files.dev47apps.net/win/DroidCam.Setup.6.4.3.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -10,7 +10,7 @@ $packageArgs = @{
 
   softwareName  = 'droidcamclient*'
 
-  checksum      = 'F5CC6D3A17F67ABBFBEA2B9903B3C3BB977C615CD109078FF6B063BED0D21E60'
+  checksum      = 'C70CE7A36E8B81D061E720FF45CD94E59C232E1A6E0AD421B1DD8004853AB68A'
   checksumType  = 'sha256'
   silentArgs   = '/S'
 }
