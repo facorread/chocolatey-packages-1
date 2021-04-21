@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>cloudberrybackup</id>
-    <version>7.0.4.3</version>
+    <version>7.0.6.1</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/cloudberrybackup</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>CloudBerry Backup for Desktop (Install)</title>
