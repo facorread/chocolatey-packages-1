@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://download.msp360.com/CloudBerryDriveSetup_v3.1.0.20.exe'
+$url        = 'https://download.msp360.com/CloudBerryDriveSetup_v3.2.0.2.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -9,9 +9,9 @@ $packageArgs = @{
   url           = $url
 
   softwareName  = 'cloudberrydrive*'
-  checksum      = 'C8F02B6B6B60804853F0E4982998E35255622EE5697F2E0D8D63F5BBBB67C5A9'
+  checksum      = '594510560FB6BE307A53C86D9B476B45D93A9A799FDA06E1D98A237F0F1F660E'
   checksumType  = 'sha256'
   silentArgs   = '/S'
 }
 
-Install-ChocolateyPackage @packageArgs # https://chocolatey.org/docs/helpers-install-chocolatey-package
+Install-ChocolateyPackage @packageArgs

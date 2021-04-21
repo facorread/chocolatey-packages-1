@@ -1,7 +1,7 @@
 ﻿<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>cloudberrydrive</id>
-    <version>3.1.0.20</version>
+    <version>3.2.0.2</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/cloudberrydrive</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>CloudBerry Drive (Install)</title>
