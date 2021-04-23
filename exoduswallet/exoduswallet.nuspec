@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>exoduswallet</id>
-    <version>21.4.12</version>
+    <version>21.4.23</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/exoduswallet</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>Exodus Wallet (Install)</title>
