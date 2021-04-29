@@ -3,7 +3,7 @@
   <metadata>
     <id>epos-connect</id>
     <version>4.4.0.1230</version>
-    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/epos-connect</packageSourceUrl>
+    <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/tree/master/epos-connect</packageSourceUrl>
     <owners>RalfEs</owners>
     <title>EPOS Connect (Install)</title>
     <authors>EPOS Audio</authors>
