@@ -1,39 +1,16 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = ''
-$url64      = ''
+$url        = 'https://www.eposaudio.com/contentassets/0539b19ad7304ef7bc60474793ee559a/eposconnect_4.4.0.1230.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
-  fileType      = 'EXE_MSI_OR_MSU'
+  fileType      = 'EXE'
   url           = $url
-  url64bit      = $url64
-
-  softwareName  = 'test*'
-
-  checksum      = ''
+  softwareName  = 'epos-connect*'
+  checksum      = '4D1C97574F7229CF04E966720157125454233FFF768D3C813EFADB649439738F'
   checksumType  = 'sha256'
-  checksum64    = ''
-  checksumType64= 'sha256'
-
-  # MSI
-  silentArgs    = "/qn /norestart /l*v `"$($env:TEMP)\$($packageName).$($env:chocolateyPackageVersion).MsiInstall.log`""
-  validExitCodes= @(0, 3010, 1641)
-  # OTHERS
-  # Uncomment matching EXE type (sorted by most to least common)
-  #silentArgs   = '/S'           # NSIS
-  #silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' # Inno Setup
-  #silentArgs   = '/s'           # InstallShield
-  #silentArgs   = '/s /v"/qn"'   # InstallShield with MSI
-  #silentArgs   = '/s'           # Wise InstallMaster
-  #silentArgs   = '-s'           # Squirrel
-  #silentArgs   = '-q'           # Install4j
-  #silentArgs   = '-s'           # Ghost
-  # Note that some installers, in addition to the silentArgs above, may also need assistance of AHK to achieve silence.
-  #silentArgs   = ''             # none; make silent with input macro script like AutoHotKey (AHK)
-                                 #       https://chocolatey.org/packages/autohotkey.portable
-  #validExitCodes= @(0) #please insert other valid exit codes here
+  silentArgs   = '/S'
 }
 
 Install-ChocolateyPackage @packageArgs

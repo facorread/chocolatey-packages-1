@@ -5,11 +5,10 @@
     <version>4.4.0.1230</version>
     <packageSourceUrl>https://github.com/RalfEs73/chocolatey-packages/epos-connect</packageSourceUrl>
     <owners>RalfEs</owners>
-
     <title>EPOS Connect (Install)</title>
     <authors>EPOS Audio</authors>
     <projectUrl>https://www.eposaudio.com/en/en/enterprise/software/epos-connect</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/test.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/5935050a28f95c0912be4c86e02df8d1c64f07ed/epos-connect/icon/Icon.png</iconUrl>
     <licenseUrl>https://www.eposaudio.com/en/us/about-epos</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://www.eposaudio.com/contentassets/0539b19ad7304ef7bc60474793ee559a/epos_connect_end_user_manual.pdf</docsUrl>
