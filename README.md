@@ -33,6 +33,7 @@ choco install <packetname>
 * [Cloudberry Drive](https://chocolatey.org/packages/cloudberrydrive/)
 * [DroidCam Client](https://chocolatey.org/packages/droidcamclient/)
 * [Encrypto](https://chocolatey.org/packages/encrypto/)
+* [EPOS Connect](https://community.chocolatey.org/packages/epos-connect/)
 * [Exodus Wallet](https://chocolatey.org/packages/exoduswallet/)
 * [Film Info! Organiser](https://chocolatey.org/packages/film-info-organizer/)
 * [Firo Wallet](https://chocolatey.org/packages/firowallet/)
