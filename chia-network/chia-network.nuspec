@@ -9,7 +9,7 @@
     <title>Chia Network (Install)</title>
     <authors>Chia Network</authors>
     <projectUrl>https://www.chia.net/</projectUrl>
-    <iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/test.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/RalfEs73/chocolatey-packages/ec98f4ac69f2938002c6153a8e83d86ef5789fbb/chia-network/icon/Icon.png</iconUrl>
     <licenseUrl>https://www.chia.net/about/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/Chia-Network/chia-blockchain</projectSourceUrl>
