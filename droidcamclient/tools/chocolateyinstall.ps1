@@ -10,7 +10,7 @@ $packageArgs = @{
 
   softwareName  = 'droidcamclient*'
 
-  checksum      = 'C70CE7A36E8B81D061E720FF45CD94E59C232E1A6E0AD421B1DD8004853AB68A'
+  checksum      = '8E71EAB54503389698604D796C18A3ED9B1B7A67817A7FAD74E86FB1B52EE500'
   checksumType  = 'sha256'
   silentArgs   = '/S'
 }
